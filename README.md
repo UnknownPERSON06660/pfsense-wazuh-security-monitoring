@@ -61,7 +61,3 @@ Documentation/pfSense_Wazuh_Documentation.pdf
 
 ---
 
-## Author
-
-Maarij
-BS Computer Science
